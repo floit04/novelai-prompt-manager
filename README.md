@@ -10,6 +10,8 @@ A floating prompt manager userscript for NovelAI.
 - 卡片自定义背景色 / 双色渐变
 - 10 个本地存档槽位
 - ZIP 导入导出
+![Uploading image.png…]()
+
 
 ## 安装
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/)
