@@ -1,0 +1,35 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Build artifacts
+dist/
+*.min.js
+*.map
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Temp / patch helpers
+patch_userscript.py
+icon_b64.txt
+
+# Large embedded assets (generated at build time)
+*_embedded.user.js
+
+# Backup files
+*.bak
+*.orig

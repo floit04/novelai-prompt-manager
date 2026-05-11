@@ -153,4 +153,3 @@ See [CHANGELOG.md](./CHANGELOG.md)
 ### ライセンス
 
 [MIT License](./LICENSE) © 2025
-
