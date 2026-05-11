@@ -1,5 +1,3 @@
-# novelai-prompt-manager
-A floating prompt manager for NovelAI with image gallery, metadata parsing, and workspace organization.
 # NAI Prompt Manager
 
 A floating prompt manager userscript for NovelAI.
