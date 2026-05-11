@@ -31,6 +31,8 @@
 | 🌏 多语言 | 中文 / English / 日本語 切换（设置面板内） |
 | 🎨 卡片配色 | 单色/双色渐变背景，色块宽度 100-400px 可调 |
 | 📦 ZIP 导入/导出 | 一键备份/还原所有数据 |
+<img width="1470" height="1218" alt="image" src="https://github.com/user-attachments/assets/64df38ce-389d-4512-abd1-b7d1eaaee990" />
+
 
 ### 安装
 
@@ -79,6 +81,8 @@
 | 🌏 Multilingual | zh-CN / English / 日本語 (switcher in settings panel) |
 | 🎨 Card colors | Solid or dual-tone gradient backgrounds; card width 100–400 px |
 | 📦 ZIP backup | Export/import all data as a ZIP archive |
+<img width="1470" height="1218" alt="image" src="https://github.com/user-attachments/assets/f7d50949-7fd3-4c87-bc2d-7103da1d87e1" />
+
 
 ### Installation
 
@@ -127,6 +131,8 @@ See [CHANGELOG.md](./CHANGELOG.md)
 | 🌏 多言語対応 | 中文 / English / 日本語（設定パネルで切替） |
 | 🎨 カード配色 | 単色・デュアルトーン背景、幅 100–400 px 調整可 |
 | 📦 ZIP バックアップ | 全データを ZIP でエクスポート/インポート |
+<img width="1470" height="1218" alt="image" src="https://github.com/user-attachments/assets/2944e461-9c33-4a47-afdc-a816bd03a125" />
+
 
 ### インストール
 
